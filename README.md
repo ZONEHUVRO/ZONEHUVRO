@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZONEHUVRO
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+- 👀 I’m interested in bot development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on discord.js
+- 📫 How to reach me - 𝐙ӨПΣ. ♡,#0069
 
 <!---
 ZONEHUVRO/ZONEHUVRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
